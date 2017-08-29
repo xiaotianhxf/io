@@ -1,0 +1,4 @@
+/mp-parent/mp-test/target
+/mp-parent/mp-test/*.iml
+/mp-parent/.idea
+/mp-parent/*.iml
